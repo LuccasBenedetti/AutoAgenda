@@ -36,7 +36,7 @@ Segue um exemplo de como é possivel organizar todos os pacientes de maneira a s
 
 Para a montagem da tabela, levei em consideração colocar os horarios de atendimento mais extensos em dias com mais tempo disponível, e os atendimentos mais curtos em dias com menos tempo disponível.
 
-##Para executar o projeto:
+## Para executar o projeto:
 
 1- Clone o repositório do GitHub para o seu ambiente local.
 

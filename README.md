@@ -48,4 +48,6 @@ Para a montagem da tabela, levei em consideração colocar os horarios de atendi
 
 5- Compile o projeto.
 
-6- Execute a aplicação usando a opção de execução da IDE ou o comando >dotnet run< na linha de comando.
+6- Execute a aplicação usando a opção de execução da IDE ou o comando:
+
+> dotnet run 

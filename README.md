@@ -36,3 +36,16 @@ Segue um exemplo de como é possivel organizar todos os pacientes de maneira a s
 
 Para a montagem da tabela, levei em consideração colocar os horarios de atendimento mais extensos em dias com mais tempo disponível, e os atendimentos mais curtos em dias com menos tempo disponível.
 
+##Para executar o projeto:
+
+> Clone o repositório do GitHub para o seu ambiente local.
+
+> Certifique-se de ter o ambiente de desenvolvimento C# instalado (como o Visual Studio).
+
+> Abra o projeto na IDE.
+
+> Restaure as dependências (se necessário).
+
+> Compile o projeto.
+
+> Execute a aplicação usando a opção de execução da IDE ou o comando dotnet run na linha de comando.

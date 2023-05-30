@@ -38,14 +38,14 @@ Para a montagem da tabela, levei em consideração colocar os horarios de atendi
 
 ##Para executar o projeto:
 
-1 Clone o repositório do GitHub para o seu ambiente local.
+1- Clone o repositório do GitHub para o seu ambiente local.
 
-2 Certifique-se de ter o ambiente de desenvolvimento C# instalado (como o Visual Studio).
+2- Certifique-se de ter o ambiente de desenvolvimento C# instalado (como o Visual Studio).
 
-3 Abra o projeto na IDE.
+3- Abra o projeto na IDE.
 
-4 Restaure as dependências (se necessário).
+4- Restaure as dependências (se necessário).
 
-5 Compile o projeto.
+5- Compile o projeto.
 
-6 Execute a aplicação usando a opção de execução da IDE ou o comando dotnet run na linha de comando.
+6- Execute a aplicação usando a opção de execução da IDE ou o comando dotnet run na linha de comando.
